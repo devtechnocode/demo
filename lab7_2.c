@@ -1,3 +1,5 @@
+// adding up contents of files specified in the input stream to the compiler 
+
 #include <stdio.h>
 #include <sys/shm.h> 
 #include <string.h> 
